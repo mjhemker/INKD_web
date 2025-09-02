@@ -3,8 +3,8 @@
   "outputDirectory": ".next",
   "framework": "nextjs",
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@supabase_url",
-    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
-    "NEXT_PUBLIC_MAPBOX_TOKEN": "@mapbox_token"
+    "NEXT_PUBLIC_SUPABASE_URL": "https://xiepmjacfolrratkmdfg.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhpZXBtamFjZm9scnJhdGttZGZnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTY4MzA3MjgsImV4cCI6MjA3MjQwNjcyOH0.3JrX0nYhmeabNsZZndG6dW0uRwBnz9_RlS0WXcPSHjY",
+    "NEXT_PUBLIC_MAPBOX_TOKEN": "pk.eyJ1IjoibWpoZW1rZXIiLCJhIjoiY21jOWh0c2NhMXlvMjJsb2lmYnkzOHBmNyJ9.NVETihp3IJ05oHuomwwOdQ"
   }
 }
